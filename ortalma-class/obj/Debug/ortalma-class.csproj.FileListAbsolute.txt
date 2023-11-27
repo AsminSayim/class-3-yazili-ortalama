@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\bin\Debug\ortalma-class.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\bin\Debug\ortalma-class.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\bin\Debug\ortalma-class.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\obj\Debug\ortalma-class.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\obj\Debug\ortalma-class.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\obj\Debug\ortalma_class.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\obj\Debug\ortalma_class.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\obj\Debug\ortalma-class.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\obj\Debug\ortalma-class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\obj\Debug\ortalma-class.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ortalma-class\ortalma-class\obj\Debug\ortalma-class.pdb
